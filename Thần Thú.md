@@ -2,7 +2,7 @@ Mình đã tạo file Markdown với thông tin chi tiết về các game. Bạn
 
 ---
 
-### 🐲 Thông tin về Linh Thú trong game 🐉
+### 🐲 Thông tin về Thần Thú (linh thú) trong game 🐉
 
 ---
 
