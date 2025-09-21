@@ -1,7 +1,3 @@
-Mình đã tạo file Markdown với thông tin chi tiết về các game. Bạn có thể sao chép nội dung dưới đây và lưu thành file `.md` nhé.
-
----
-
 ### 🐲 Thông tin về Thần Thú (linh thú) trong game 🐉
 
 ---
